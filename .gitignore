@@ -2,6 +2,7 @@
 *.class
 .settings
 .project
+.classpath
 
 # Log file
 *.log
